@@ -38,6 +38,13 @@ Bridging the Gap is a Python-based project that uses MediaPipe, OpenCV, and Tens
 
 ---
 
+▶️ Video Explanation
+
+https://github.com/rohitt8493/Rohit_Kumar_CseB_Bridging-the-Gap/blob/main/Bridging%20The%20Gap%20Presentation.mp4
+
+---
+
+
 🚀 How to Run/Use the Project
  - Right now: Just an idea stage
 -  In the future: Open website -> Show hand gesture -> Real time Detection -> Get instant feedback
