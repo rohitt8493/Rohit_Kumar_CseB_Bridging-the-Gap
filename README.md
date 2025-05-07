@@ -27,6 +27,7 @@ Bridging the Gap is a Python-based project that uses MediaPipe, OpenCV, and Tens
 
 
 ## 🛠️Technology Used 
+- (to be updated once actual coding starts)
 - Language: Python  
 - Libraries:  
   - OpenCV  
