@@ -4,7 +4,7 @@ Real-Time Sign Language Recognition for Inclusive Communication
 
 ---
 
-##👥 Team Members
+👥 Team Members
 
 - Rohit Kumar    (2401010255)
 - Mukul          (2401010256)
