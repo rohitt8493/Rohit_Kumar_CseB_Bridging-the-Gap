@@ -6,10 +6,10 @@ Real-Time Sign Language Recognition for Inclusive Communication
 
 👥 Team Members
 
- Rohit Kumar    (2401010255)
- Mukul          (2401010256)
- Khushi Chauhan (2401010263)
- Aman           (2401010261)
+. Rohit Kumar    (2401010255)
+. Mukul          (2401010256)
+. Khushi Chauhan (2401010263)
+. Aman           (2401010261)
 
 ---
 
